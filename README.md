@@ -23,4 +23,4 @@ The chatbot matches user questions with stored AI FAQs and returns the most rele
 
 ## Run Project
 
-python chatbot.py
+streamlit run app.py
